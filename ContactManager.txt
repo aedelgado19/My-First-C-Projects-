@@ -1,0 +1,13 @@
+/*
+	You're creating a contact manager app. It should print the info for 3 users. 
+	Collect the phone number, name, email address for these users and print it out 
+	when you have it. 
+*/
+
+#include <stdio.h>
+
+int main()
+{
+
+	return 0;
+}
